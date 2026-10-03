@@ -2,7 +2,7 @@
 
 Name:		kalm
 Version:	26.08.1
-Release:	1
+Release:	2
 Source0:	https://download.kde.org/%{stable}/release-service/%{version}/src/%{name}-%{version}.tar.xz
 Summary:	Breathing techniques trainer
 URL:		https://apps.kde.org/kalm/
